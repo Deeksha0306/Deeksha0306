@@ -33,7 +33,7 @@
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deekshak2103&show_icons=true&theme=radical" alt="deekshak2103" width="450" />
-</p>
+</p> -->
